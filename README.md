@@ -4,7 +4,7 @@
 
 ### Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
-* Go to Files > Preferences and add https://dl.espressif.com/dl/package_esp32_index.json in Additional Boards Manager URLs
+* Go to Files > Preferences and add <https://dl.espressif.com/dl/package_esp32_index.json> in Additional Boards Manager URLs
 
 * Go to Tools > Boards > Board Managers, search for esp32 and install
 
