@@ -1,5 +1,7 @@
 # ESP32
 
+[Pinout reference](https://raw.githubusercontent.com/playelek/pinout-doit-32devkitv1/master/pinoutDOIT32devkitv1.png)
+
 ## Enviroment Setup
 
 ### Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
