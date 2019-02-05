@@ -35,3 +35,15 @@ user@computer:~/project_folder$ pio run
 ```console
 user@computer:~/project_folder$ pio run -t upload --upload-port=/dev/ttyUSB0
 ```
+
+## [Serial Plotter](./serialPlotter)
+
+Python utility to plot the data present in a serial port formatted in CSV.
+
+![Serial Plotter](./imgs/serialPlotter.png)
+
+* Usage:
+
+```console
+user@computer:~/serialPlotter$ python main.py
+```
